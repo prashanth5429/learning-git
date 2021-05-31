@@ -1,3 +1,3 @@
 ﻿git practice
 new line
-new line from cloud
+new line from cloud.
